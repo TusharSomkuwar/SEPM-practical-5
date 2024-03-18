@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> Use fo different tage in html</title>
+</head>
+<body>
+<h1>Pertional Information</h1>
+<div>Name: Tushar Somkuwar</div>
+<div>Roll No: 64</div>
+<div>Branch: Computer Science and Engineering</div>
+<p>My collace name is
+<span style="background-color:lightblue">Priyadarshini jl college of engineering</span>
+and I am currnentely in
+<span style="background-color:yellow">4th Sem.</span></p>
+</body>
+</html>
